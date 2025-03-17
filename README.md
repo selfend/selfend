@@ -20,7 +20,10 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 
 > ## Statistics
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=selfend&layout=compact&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=selfend&theme=tokyonight&show_icons=true)](https://github.com/selfend)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfend&theme=tokyonight) ](https://github.com/selfend)
+
 
 > ## Contact with me
 [Links](https://selffend.ru)
